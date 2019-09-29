@@ -1,0 +1,4 @@
+﻿  PALAB2_MARIANAGONZALEZ_1097019.cpp
+c:\users\luis\desktop\segundo ciclo 2019\pa\palab2_marianagonzalez_1097019\palab2_marianagonzalez_1097019\palab2_marianagonzalez_1097019.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PALAB2_MARIANAGONZALEZ_1097019.vcxproj -> C:\Users\luis\Desktop\SEGUNDO CICLO 2019\PA\PALAB2_MARIANAGONZALEZ_1097019\Debug\PALAB2_MARIANAGONZALEZ_1097019.exe
